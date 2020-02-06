@@ -259,6 +259,8 @@ public class SettingsActivity extends AppCompatActivity
                 {
                     if (dataSnapshot.child("image").exists())
                     {
+
+
                         String image = dataSnapshot.child("image").getValue().toString();
                         String name = dataSnapshot.child("name").getValue().toString();
                         String phone = dataSnapshot.child("phone").getValue().toString();

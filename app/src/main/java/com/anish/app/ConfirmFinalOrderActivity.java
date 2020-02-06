@@ -144,8 +144,8 @@ public class ConfirmFinalOrderActivity extends AppCompatActivity {
         PendingIntent pendingIntent = PendingIntent.getActivity(this, 0, intent, 0);
         Notification notification= new NotificationCompat.Builder(this, NotificationClass.channel_3)
                 .setSmallIcon(R.drawable.techmart)
-                .setContentTitle("Registration Successfull")
-                .setContentText("Congratulations!! your account has been created successfully ")
+                .setContentTitle("Confirmed order")
+                .setContentText("Your order has been received. You will get call from one of our staff to confirm order. Thank You for Shopping with us. ")
                 .setCategory(NotificationCompat.CATEGORY_EVENT).build();
         notificationManagerCompat.notify(i,notification);
 
