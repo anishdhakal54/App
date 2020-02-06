@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1008389141339",
+    "firebase_url": "https://test-a47e0.firebaseio.com",
+    "project_id": "test-a47e0",
+    "storage_bucket": "test-a47e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008389141339:android:ae29eef81b4b23b59c207e",
+        "android_client_info": {
+          "package_name": "com.anish.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008389141339-56i99f5fdvhctt36e2n9gesd4k2h31ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anish.app",
+            "certificate_hash": "a24433918cf47f421dfb8c97aa4abc9788ce5042"
+          }
+        },
+        {
+          "client_id": "1008389141339-9f4chvamgbrcbj49cj86upfgvgunvcl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anish.app",
+            "certificate_hash": "3bdaf4d6b88c5804decdefaa396d3b3c122237f4"
+          }
+        },
+        {
+          "client_id": "1008389141339-t8do380n561gujgjtjcjikjttvj0dmh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY1OaAeXusaeJRSt104n6etg-YVSZpka0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008389141339-t8do380n561gujgjtjcjikjttvj0dmh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
